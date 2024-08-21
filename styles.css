@@ -75,3 +75,25 @@ h1{
 .nav-links a:hover::after {
     width: 100%;
 }
+
+/*hero section*/
+.hero-section{
+	background: url('images/hero-image.jpg')no-repeat center center/cover;
+	text-align: center;
+	padding: 200px 30px;
+	height: 500px;
+}
+.hero-content h1{
+	font-size: 4em;
+	margin-bottom: 25px;
+}
+.zero-content h3{
+	font-size: 2em;
+	margin-bottom: 30px;
+}
+.btn-primary{
+	background-color: lightgreen;
+	color: purple;
+	padding: 10px 20px;
+	border-radius: 5px;
+}
